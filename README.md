@@ -11,5 +11,6 @@ All approaches are listed in the Jupyter Notebook and can be taken from it.
 
 ### Dataset 
 _Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive._
+
 In this competition was no training data given. Instead we had to refer to previous Jigsaw competitions for data that might be useful to train models. 
 For additional information see the competition description on Kaggle.
